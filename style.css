@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* text-align: justify; */
+    /* background-image: url("Screenshot\ 2024-04-21\ 221716.png"); */
+    /* background-repeat: no-repeat; */
+}
+
+.container {
+    width: 60%;
+    height: 550px;
+    background-color: rgb(180, 180, 255);
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+}
+
+#name {
+    height: 30px;
+    width: 300px;
+    text-align: center;
+    /* background-color: ; */
+    /* margin: auto; */
+}
+
+#Phone {
+    width: 270px;
+}
+
+#dropedwon {
+    width: 280px;
+    height: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 100px;
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#dropedwon-1 {
+    width: 280px;
+    height: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#pincode {
+    margin-left: 28px;
+}
+
+#password {
+    width: 270px;
+}
+
+label {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+input {
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    height: 30px;
+    width: 280px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+}
+
+#feedback {
+    height: 80px;
+    /* margin: 30px; */
+    margin-bottom: 10px;
+    margin-left: 60px;
+    width: 800px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
+
+.button {
+    font-size: 28px;
+    /* padding: 5px 70px; */
+    background: none;
+    /* border-radius: 40px; */
+    margin-left: 10px;
+    position: relative;
+    margin-top: 30px;
+    width: 900px;
+    background-color: yellow;
+}
+
+.button:hover {
+    /* background-color: rgb(87, 87, 117); */
+}
